@@ -1,0 +1,12 @@
+{
+  "name": "Regenbogen",
+  "question": "Welche Farbe hat ein Regenbogen ganz außen (oben)? ",
+  "answers": [
+    "rot",
+    "gelb",
+    "blau",
+    "grün"
+  ],
+  "correctAnswer": "rot",
+  "category": 1
+}

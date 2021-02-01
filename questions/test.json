@@ -1,0 +1,11 @@
+{
+  "name": "Test",
+  "question": "Was ist blau?",
+  "answers": [
+    "rot",
+    "pink",
+    "blau"
+  ],
+  "correctAnswer": "blau",
+  "category": 1
+}
